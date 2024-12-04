@@ -22,13 +22,11 @@ Vue.js implementation for managing card focus states based on viewport visibilit
 
 ```
 ├── src/
-│   ├── utils/                  # Assessment solutions
-│   │   ├── objectWatcher.ts    # Problem 1
-│   │   ├── types.ts           # Problem 2
-│   │   └── productAnalytics.ts # Problem 3
-│   ├── App.vue                # Problem 4
-│   └── Card.vue              # Card component
-└── products.json             # Source data
+├── utils/                  # Assessment solutions
+│   ├── objectWatcher.ts    # Problem 1
+│   ├── types.ts            # Problem 2
+│   └── productAnalytics.ts # Problem 3
+└── App.vue                 # Problem 4
 ```
 
 ## Recommended IDE Setup
